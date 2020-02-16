@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movie", "Movie\Movie.csproj", "{55F9D404-062D-4B1C-A233-1A67AAE91C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrjoshkaProject", "MatrjoshkaProject\MatrjoshkaProject.csproj", "{C7503ED0-32CD-481B-AC87-9C8E8741E344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F9D404-062D-4B1C-A233-1A67AAE91C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F9D404-062D-4B1C-A233-1A67AAE91C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F9D404-062D-4B1C-A233-1A67AAE91C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F9D404-062D-4B1C-A233-1A67AAE91C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7503ED0-32CD-481B-AC87-9C8E8741E344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7503ED0-32CD-481B-AC87-9C8E8741E344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7503ED0-32CD-481B-AC87-9C8E8741E344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7503ED0-32CD-481B-AC87-9C8E8741E344}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8134DAF0-B5ED-441F-BA51-70BC87C66B35}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+C:\Users\Reio\source\repos\Movie\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.exe
+C:\Users\Reio\source\repos\Movie\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.deps.json
+C:\Users\Reio\source\repos\Movie\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.runtimeconfig.json
+C:\Users\Reio\source\repos\Movie\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.runtimeconfig.dev.json
+C:\Users\Reio\source\repos\Movie\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.dll
+C:\Users\Reio\source\repos\Movie\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.pdb
+C:\Users\Reio\source\repos\Movie\MatrjoshkaProject\obj\Debug\netcoreapp3.0\MatrjoshkaProject.csprojAssemblyReference.cache
+C:\Users\Reio\source\repos\Movie\MatrjoshkaProject\obj\Debug\netcoreapp3.0\MatrjoshkaProject.AssemblyInfoInputs.cache
+C:\Users\Reio\source\repos\Movie\MatrjoshkaProject\obj\Debug\netcoreapp3.0\MatrjoshkaProject.AssemblyInfo.cs
+C:\Users\Reio\source\repos\Movie\MatrjoshkaProject\obj\Debug\netcoreapp3.0\MatrjoshkaProject.dll
+C:\Users\Reio\source\repos\Movie\MatrjoshkaProject\obj\Debug\netcoreapp3.0\MatrjoshkaProject.pdb
+C:\Users\Reio\Desktop\New folder\Movie\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.exe
+C:\Users\Reio\Desktop\New folder\Movie\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.deps.json
+C:\Users\Reio\Desktop\New folder\Movie\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.runtimeconfig.json
+C:\Users\Reio\Desktop\New folder\Movie\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.runtimeconfig.dev.json
+C:\Users\Reio\Desktop\New folder\Movie\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.dll
+C:\Users\Reio\Desktop\New folder\Movie\MatrjoshkaProject\bin\Debug\netcoreapp3.0\MatrjoshkaProject.pdb
+C:\Users\Reio\Desktop\New folder\Movie\MatrjoshkaProject\obj\Debug\netcoreapp3.0\MatrjoshkaProject.csprojAssemblyReference.cache
+C:\Users\Reio\Desktop\New folder\Movie\MatrjoshkaProject\obj\Debug\netcoreapp3.0\MatrjoshkaProject.AssemblyInfoInputs.cache
+C:\Users\Reio\Desktop\New folder\Movie\MatrjoshkaProject\obj\Debug\netcoreapp3.0\MatrjoshkaProject.AssemblyInfo.cs
+C:\Users\Reio\Desktop\New folder\Movie\MatrjoshkaProject\obj\Debug\netcoreapp3.0\MatrjoshkaProject.dll
+C:\Users\Reio\Desktop\New folder\Movie\MatrjoshkaProject\obj\Debug\netcoreapp3.0\MatrjoshkaProject.pdb

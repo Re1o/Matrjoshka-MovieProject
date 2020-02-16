@@ -1,0 +1,11 @@
+C:\Users\Reio\source\repos\Movie\Movie\obj\Debug\netcoreapp3.0\Movie.AssemblyInfoInputs.cache
+C:\Users\Reio\source\repos\Movie\Movie\obj\Debug\netcoreapp3.0\Movie.AssemblyInfo.cs
+C:\Users\Reio\source\repos\Movie\Movie\bin\Debug\netcoreapp3.0\Movie.exe
+C:\Users\Reio\source\repos\Movie\Movie\bin\Debug\netcoreapp3.0\Movie.deps.json
+C:\Users\Reio\source\repos\Movie\Movie\bin\Debug\netcoreapp3.0\Movie.runtimeconfig.json
+C:\Users\Reio\source\repos\Movie\Movie\bin\Debug\netcoreapp3.0\Movie.runtimeconfig.dev.json
+C:\Users\Reio\source\repos\Movie\Movie\bin\Debug\netcoreapp3.0\Movie.dll
+C:\Users\Reio\source\repos\Movie\Movie\bin\Debug\netcoreapp3.0\Movie.pdb
+C:\Users\Reio\source\repos\Movie\Movie\obj\Debug\netcoreapp3.0\Movie.dll
+C:\Users\Reio\source\repos\Movie\Movie\obj\Debug\netcoreapp3.0\Movie.pdb
+C:\Users\Reio\source\repos\Movie\Movie\obj\Debug\netcoreapp3.0\Movie.csprojAssemblyReference.cache
